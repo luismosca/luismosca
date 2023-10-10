@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**luismosca/luismosca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**luismosca/luismosca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Licenciado en Sistemas - Master en dirección de Sistemas
 
